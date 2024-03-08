@@ -1,16 +1,16 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-01-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-     { title: 'Welcome欢迎你的到来🎯', url: 'https://like.liyong.online' },
-    { title: '希望你的每一天都开心快乐❤️', url: 'https://like.liyong.online' },
-    { title: '昨天是段历史❤️', url: 'https://like.liyong.online' },
-    { title: '明天是个谜团❤️', url: 'https://like.liyong.online' },
-    { title: '而今天是天赐的礼物❤️', url: 'https://like.liyong.online' },
-    { title: '要像珍惜礼物那样珍惜今天❤️', url: 'https://like.liyong.online' }
+     { title: 'Welcome欢迎你的到来🎯', url: 'https://2048.hellowold.dynv6.net/' },
+    { title: '希望你的每一天都开心快乐❤️', url: 'https://2048.hellowold.dynv6.net/' },
+    { title: '昨天是段历史❤️', url: 'https://2048.hellowold.dynv6.net/' },
+    { title: '明天是个谜团❤️', url: 'https://2048.hellowold.dynv6.net/' },
+    { title: '而今天是天赐的礼物❤️', url: 'https://2048.hellowold.dynv6.net/' },
+    { title: '要像珍惜礼物那样珍惜今天❤️', url: 'https://2048.hellowold.dynv6.net/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -24,12 +24,12 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '“Hello,World”',
   HEO_HERO_TITLE_4: 'Asuna',
   HEO_HERO_TITLE_5: '热爱生活，知足常乐',
-  HEO_HERO_TITLE_LINK: 'https://space.bilibili.com/1375298909/',
+  HEO_HERO_TITLE_LINK: 'https://christmas.hellowold.dynv6.net/',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: 'Serendipity', url: 'https://www.liyong.online' },
-  HEO_HERO_CATEGORY_2: { title: 'Online音乐', url: 'https://music.liyong.online' },
-  HEO_HERO_CATEGORY_3: { title: 'Smile', url: 'https://cloudmusic.liyong.online' },
+  HEO_HERO_CATEGORY_1: { title: 'Serendipity', url: 'https://xiangsu.hellowold.dynv6.net/' },
+  HEO_HERO_CATEGORY_2: { title: 'Online音乐', url: 'https://heomusic.hellowold.dynv6.net/' }, 
+  HEO_HERO_CATEGORY_3: { title: 'Smile', url: 'https://music.hellowold.dynv6.net/' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
@@ -112,7 +112,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: 'About me',
   HEO_SOCIAL_CARD_TITLE_2: 'Thanks for reading',
   HEO_SOCIAL_CARD_TITLE_3: '🔴🟡🟢点击发现更多 Thanks for reading',
-  HEO_SOCIAL_CARD_URL: 'https://winter.liyong.online/',
+  HEO_SOCIAL_CARD_URL: 'https://boqi.hellowold.dynv6.net/',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
